@@ -199,12 +199,22 @@
       "sizeS": "S",
       "sizeM": "M",
       "sizeL": "L",
-      "productName": "Paris Morning",
-      "description": "Enjoy the feeling of comfort and elegance with Bella Notte's 100% cotton pajamas designed with a soft Parisian spirit. Features soft and light fabric on the skin, with calm pastel lines and drawings inspired by the atmosphere of coffee, croissants and fruit, to give you a sophisticated feminine look every morning and evening.",
-      "fabricType": "Fabric Type: 100% Pure Cotton",
-      "oldPrice": "195 SAR",
-      "newPrice": "159 SAR",
-      "orderButton": "Order Now"
+      "product1": {
+        "productName": "Paris Morning",
+        "description": "Enjoy the feeling of comfort and elegance with Bella Notte's 100% cotton pajamas designed with a soft Parisian spirit. Features soft and light fabric on the skin, with calm pastel lines and drawings inspired by the atmosphere of coffee, croissants and fruit, to give you a sophisticated feminine look every morning and evening.",
+        "fabricType": "Fabric Type: 100% Pure Cotton",
+        "oldPrice": "195 SAR",
+        "newPrice": "159 SAR",
+        "orderButton": "Order Now"
+      },
+      "product2": {
+        "productName": "Bella Notte",
+        "description": "Soft pajama in a gentle pink shade, inspired by French garden colors with a factory style, with romantic details on the collar and sleeves, and delicate flower patterns on the white pants that give you a sense of comfort and luxury at the same time 🌸",
+        "fabricType": "100% cotton fabric with a soft texture and feminine cut that gives you an elegant look even in moments of relaxation. Perfect for quiet evenings, your warm coffee, and sleep full of beautiful dreams ☕🌙",
+        "oldPrice": "199 SAR",
+        "newPrice": "164 SAR",
+        "orderButton": "Order Now"
+      }
     },
     "contact": {
       "title": "Contact Us",
