@@ -42,13 +42,13 @@ function ProductCard({ images, productKey }: ProductCardProps) {
   return (
     <div className="border-brand-light-pink/30 relative overflow-hidden rounded-2xl border bg-white shadow-xl">
       {/* Image Container */}
-      <div className="relative h-[350px] w-full overflow-hidden md:h-[400px]">
+      <div className="relative h-[350px] w-full overflow-hidden bg-gray-50 md:h-[400px]">
         <ExportedImage
           key={currentImageIndex}
           src={images[currentImageIndex]}
           alt={t("productName")}
           fill
-          className="object-cover"
+          className="object-contain"
         />
 
         {/* Navigation Buttons */}
