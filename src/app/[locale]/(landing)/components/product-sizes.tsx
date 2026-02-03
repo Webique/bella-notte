@@ -14,9 +14,8 @@ interface ProductCardProps {
 }
 
 function ProductCard({ images, productKey }: ProductCardProps) {
-  const t = useTranslations(
-    `IndexPage.productSizes.${productKey}` as any
-  );
+  const baseT = useTranslations("IndexPage.productSizes");
+  const t = (key: string) => baseT(`${productKey}.${key}` as any);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const nextImage = () => {
