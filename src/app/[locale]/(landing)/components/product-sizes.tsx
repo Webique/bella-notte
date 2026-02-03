@@ -11,7 +11,13 @@ import { siteConfig } from "@/config/site";
 const productImages = [
   "/images/56.jpg",
   "/images/57.jpg",
-  "/images/58.jpg"
+  "/images/58.jpg",
+  "/images/59.jpg",
+  "/images/60.jpg",
+  "/images/61.jpg",
+  "/images/62.jpg",
+  "/images/63.jpg",
+  "/images/64.jpg"
 ];
 
 export default function ProductSizes() {
