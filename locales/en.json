@@ -198,7 +198,13 @@
       "imageAlt": "Bella Notte Luxury Nightwear",
       "sizeS": "S",
       "sizeM": "M",
-      "sizeL": "L"
+      "sizeL": "L",
+      "productName": "Paris Morning",
+      "description": "Enjoy the feeling of comfort and elegance with Bella Notte's 100% cotton pajamas designed with a soft Parisian spirit. Features soft and light fabric on the skin, with calm pastel lines and drawings inspired by the atmosphere of coffee, croissants and fruit, to give you a sophisticated feminine look every morning and evening.",
+      "fabricType": "Fabric Type: 100% Pure Cotton",
+      "oldPrice": "195 SAR",
+      "newPrice": "159 SAR",
+      "orderButton": "Order Now"
     },
     "contact": {
       "title": "Contact Us",
