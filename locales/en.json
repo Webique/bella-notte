@@ -1,0 +1,281 @@
+{
+  "IndexPage": {
+    "hero": {
+      "title": "Bella Notte",
+      "subtitle": "Because your night deserves to be beautiful",
+      "description": "Experience luxurious comfort that combines the softness of natural cotton with elegant design details, creating peaceful moments with beauty that reflects simplicity.",
+      "cta": "Discover Collection",
+      "shopNow": "Shop Now",
+      "luxuryNightwear": "Luxury Nightwear"
+    },
+    "about": {
+      "title": "Our Story",
+      "subtitle": "Luxury Comfort Redefined",
+      "description": "At Bella Notte, we offer a luxurious comfort experience that combines the softness of natural cotton with elegant design details, creating peaceful moments with beauty that reflects simplicity.",
+      "mission": "Our Mission",
+      "missionText": "To be the premier destination for luxury home fashion in the Arab world, elevating comfort and quality standards to create a brand that embodies sophisticated femininity every beautiful night.",
+      "vision": "Our Vision",
+      "visionText": "We provide high-quality products made from 100% natural cotton with contemporary luxury designs.",
+      "goalsTitle": "Goals",
+      "goal1": "The first Saudi brand specialized in offering high-quality products made from 100% natural cotton with contemporary, luxurious, and elegant designs.",
+      "goal2": "Enhance the brand's visual identity to become a symbol of comfort and nighttime elegance.",
+      "goal3": "Gradual expansion in pajama collections to suit different tastes and seasons.",
+      "goal4": "Build deep loyalty with customers through a refined shopping experience and exceptional service.",
+      "goal5": "Sustainability through the use of natural materials that are skin-friendly and supportive of quality of life.",
+      "goal6": "Reach Gulf and Arab markets as a luxury brand in women's homewear.",
+      "naturalCotton": "Natural Cotton"
+    },
+    "features": {
+      "title": "Why Choose Bella Notte",
+      "subtitle": "Exceptional Quality & Comfort",
+      "feature1": {
+        "title": "100% Natural Cotton",
+        "description": "Premium quality natural cotton that's gentle on your skin"
+      },
+      "feature2": {
+        "title": "Elegant Designs",
+        "description": "Contemporary luxury designs with sophisticated details"
+      },
+      "feature3": {
+        "title": "Superior Comfort",
+        "description": "Unmatched comfort for peaceful and beautiful nights"
+      },
+      "feature4": {
+        "title": "Sustainable Materials",
+        "description": "Eco-friendly materials that support quality of life"
+      }
+    },
+    "collection": {
+      "title": "Our Collection",
+      "subtitle": "Luxury Nightwear for Every Occasion",
+      "viewAll": "View All Products",
+      "viewDetails": "View Details"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Bella Notte",
+      "subtitle": "Excellence in Every Detail",
+      "description": "Discover what makes Bella Notte the perfect choice for your comfort and elegance needs.",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Only the finest 100% natural cotton, carefully selected for ultimate softness and durability."
+      },
+      "comfort": {
+        "title": "Unmatched Comfort",
+        "description": "Designed for perfect fit and breathability, ensuring peaceful nights and beautiful mornings."
+      },
+      "elegance": {
+        "title": "Timeless Elegance",
+        "description": "French-inspired designs that combine sophistication with contemporary style."
+      },
+      "premium": {
+        "title": "Luxury Experience",
+        "description": "Every piece reflects our commitment to luxury and attention to the finest details."
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Quick and secure delivery to your doorstep with careful packaging and handling."
+      },
+      "service": {
+        "title": "24/7 Support",
+        "description": "Our dedicated team is always ready to assist you with any questions or concerns."
+      },
+      "cta": {
+        "title": "Ready to Experience Bella Notte?",
+        "description": "Join thousands of satisfied customers who have made Bella Notte their choice for luxury comfort.",
+        "primary": "Shop Now",
+        "secondary": "Learn More"
+      }
+    },
+    "brandStory": {
+      "title": "Our French-Inspired Journey",
+      "subtitle": "Brand Heritage",
+      "description": "Born from a passion for French elegance and comfort, Bella Notte represents the perfect fusion of timeless sophistication and modern luxury. Our journey began with a simple belief: every woman deserves to feel beautiful, especially during her most intimate moments of rest.",
+      "frenchQuote": "L'élégance est la seule beauté qui ne se fane jamais",
+      "established": "Established",
+      "value1": {
+        "title": "French Heritage",
+        "description": "Inspired by Parisian elegance and sophistication"
+      },
+      "value2": {
+        "title": "Timeless Design",
+        "description": "Classic styles that transcend trends and seasons"
+      }
+    },
+    "qualityPromise": {
+      "title": "Our Quality Promise",
+      "subtitle": "Excellence in Every Detail",
+      "frenchSubtitle": "La qualité française dans chaque détail",
+      "promise1": {
+        "title": "Premium Materials",
+        "description": "Only the finest 100% natural cotton, carefully sourced and selected for ultimate comfort and durability."
+      },
+      "promise2": {
+        "title": "Sustainable Practices",
+        "description": "Eco-friendly production methods that respect both your skin and our environment."
+      },
+      "promise3": {
+        "title": "Comfort Guarantee",
+        "description": "Designed for perfect fit and breathability, ensuring peaceful nights and beautiful mornings."
+      },
+      "promise4": {
+        "title": "Artisan Craftsmanship",
+        "description": "Each piece is crafted with meticulous attention to detail by skilled artisans."
+      },
+      "promise5": {
+        "title": "Elegant Design",
+        "description": "French-inspired aesthetics that combine sophistication with contemporary style."
+      },
+      "promise6": {
+        "title": "Quality Assurance",
+        "description": "Rigorous quality control ensures every piece meets our highest standards."
+      },
+      "bottomSection": {
+        "title": "Our Commitment to Excellence",
+        "description": "At Bella Notte, quality isn't just a promise—it's our foundation. Every thread, every stitch, every detail is carefully considered to create nightwear that exceeds your expectations."
+      }
+    },
+    "customerExperience": {
+      "title": "Your Bella Notte Experience",
+      "subtitle": "Journey with Us",
+      "description": "From the moment you discover Bella Notte to the comfort of your beautiful nights, we're dedicated to creating an exceptional experience at every step.",
+      "experience1": {
+        "title": "Personal Consultation",
+        "description": "Connect with our style experts for personalized recommendations tailored to your preferences and needs."
+      },
+      "experience2": {
+        "title": "Elegant Packaging",
+        "description": "Your order arrives in beautiful, eco-friendly packaging that reflects the luxury within."
+      },
+      "experience3": {
+        "title": "Surprise & Delight",
+        "description": "Enjoy special touches and exclusive offers that make every purchase feel like a celebration."
+      },
+      "experience4": {
+        "title": "Quality Guarantee",
+        "description": "Shop with confidence knowing every piece is backed by our comprehensive quality promise."
+      },
+      "experience5": {
+        "title": "Ongoing Care",
+        "description": "Receive expert care instructions and styling tips to keep your Bella Notte pieces looking beautiful."
+      },
+      "experience6": {
+        "title": "Lifetime Support",
+        "description": "Our customer care team is always here to ensure your complete satisfaction with every purchase."
+      },
+      "frenchQuote": "Chaque cliente mérite une expérience aussi belle que nos créations",
+      "signature": "The Bella Notte Team"
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "subtitle": "Real experiences from our valued customers",
+      "testimonial1": {
+        "name": "Sarah Ahmed",
+        "location": "Riyadh",
+        "text": "The quality of Bella Notte nightwear exceeded all my expectations. The natural cotton is incredibly soft and the designs are so elegant. I feel beautiful and comfortable every night."
+      },
+      "testimonial2": {
+        "name": "Fatima Mohammed",
+        "location": "Jeddah",
+        "text": "I've been searching for luxury nightwear that combines comfort with style, and Bella Notte delivered perfectly. The French-inspired designs are absolutely stunning."
+      },
+      "testimonial3": {
+        "name": "Nora Al-Ali",
+        "location": "Dammam",
+        "text": "From the moment I received my order, I knew I made the right choice. The packaging was beautiful and the nightwear quality is exceptional. Highly recommended!"
+      }
+    },
+    "cta": {
+      "title": "Ready for a Beautiful Night?",
+      "subtitle": "Discover our luxury collection and transform your nights",
+      "button": "Shop Collection",
+      "freeShipping": "Free Shipping",
+      "returns": "30-Day Returns",
+      "premiumQuality": "Premium Quality"
+    },
+    "productSizes": {
+      "title": "Available Sizes",
+      "subtitle": "Perfect Fit for Everyone",
+      "imageAlt": "Bella Notte Luxury Nightwear",
+      "sizeS": "S",
+      "sizeM": "M",
+      "sizeL": "L"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Connect With Us",
+      "description": "We're here to help you find the perfect comfort pieces. Contact us for any inquiries or special requests.",
+      "whatsappTitle": "Contact us via WhatsApp",
+      "whatsappDescription": "For personalized consultation and exceptional shopping experience",
+      "whatsappButton": "Contact Now"
+    },
+    "WhatsAppFloat": {
+      "tooltip": "Contact us via WhatsApp"
+    }
+  },
+  "Error": {
+    "title": "Sorry, an unexpected error occurred!",
+    "description": "<p>We apologize for this error we encountered.</p><p>You can try <retry>reloading the page</retry> you were visiting.</p>"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Sorry, please check the address bar in your browser or use the navigation to go to a known page.",
+    "retryButton": "Try again",
+    "contactSupport": "Contact support",
+    "goBack": "Go back",
+    "backToHome": "Back to home"
+  },
+  "LocaleLayout": {
+    "name": "Bella Notte | Luxury Nightwear & Home Fashion",
+    "short_name": "Bella Notte",
+    "description": "Experience luxurious comfort with Bella Notte's premium collection of nightwear made from 100% natural cotton. Elegant designs for sophisticated women.",
+    "keywords": [
+      "Bella Notte",
+      "Luxury Nightwear",
+      "Natural Cotton",
+      "Women's Sleepwear",
+      "Premium Pajamas",
+      "Elegant Nightgowns",
+      "Comfortable Sleepwear",
+      "Luxury Home Fashion"
+    ]
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ar {🇸🇦 Arabic} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Header": {
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "collection": "Collection",
+      "features": "Features",
+      "contact": "Contact",
+      "returnPolicy": "Return Policy"
+    },
+    "cta": "Shop Now",
+    "siteName": "Bella Notte",
+    "siteDescription": "Luxury Nightwear"
+  },
+  "Footer": {
+    "home": "Home",
+    "about": "About Us",
+    "collection": "Collection",
+    "features": "Features",
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "connectWithUs": "Connect With Us",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "brandName": "Bella Notte",
+    "copyright": "© {year} Bella Notte. All rights reserved",
+    "allRightsReserved": "All rights reserved",
+    "companyDescription": "Experience luxurious comfort that combines the softness of natural cotton with elegant design details.",
+    "followUs": "Follow Us",
+    "returnPolicy": {
+      "title": "Exchange and Return Policy",
+      "content": "Thank you for your trust in our store. For your safety and in compliance with the regulations of the Ministry of Commerce in the Kingdom of Saudi Arabia, we would like to clarify that sleepwear products are classified among products that cannot be exchanged or returned after receipt, due to reasons related to public health and personal hygiene, in accordance with the E-Commerce Law and Consumer Protection Regulations."
+    }
+  }
+}
