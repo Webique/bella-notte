@@ -10,11 +10,13 @@ import { siteConfig } from "@/config/site";
 
 interface ProductCardProps {
   images: string[];
-  productKey: string;
+  productKey: "product1" | "product2";
 }
 
 function ProductCard({ images, productKey }: ProductCardProps) {
-  const t = useTranslations(`IndexPage.productSizes.${productKey}`);
+  const t = useTranslations(
+    `IndexPage.productSizes.${productKey}` as any
+  );
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const nextImage = () => {
@@ -53,11 +55,11 @@ function ProductCard({ images, productKey }: ProductCardProps) {
         {/* Navigation Buttons */}
         <button
           onClick={prevImage}
-          className="absolute start-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg transition-all hover:bg-white hover:scale-110 md:start-3 md:p-2.5"
+          className="absolute start-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg transition-all hover:scale-110 hover:bg-white md:start-3 md:p-2.5"
           aria-label="Previous image"
         >
           <svg
-            className="h-5 w-5 text-brand-burgundy md:h-6 md:w-6"
+            className="text-brand-burgundy h-5 w-5 md:h-6 md:w-6"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -73,11 +75,11 @@ function ProductCard({ images, productKey }: ProductCardProps) {
 
         <button
           onClick={nextImage}
-          className="absolute end-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg transition-all hover:bg-white hover:scale-110 md:end-3 md:p-2.5"
+          className="absolute end-2 top-1/2 -translate-y-1/2 rounded-full bg-white/80 p-2 shadow-lg transition-all hover:scale-110 hover:bg-white md:end-3 md:p-2.5"
           aria-label="Next image"
         >
           <svg
-            className="h-5 w-5 text-brand-burgundy md:h-6 md:w-6"
+            className="text-brand-burgundy h-5 w-5 md:h-6 md:w-6"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -99,7 +101,7 @@ function ProductCard({ images, productKey }: ProductCardProps) {
               onClick={() => goToImage(index)}
               className={`h-1.5 rounded-full transition-all ${
                 index === currentImageIndex
-                  ? "w-6 bg-brand-burgundy"
+                  ? "bg-brand-burgundy w-6"
                   : "w-1.5 bg-white/60 hover:bg-white/80"
               }`}
               aria-label={`Go to image ${index + 1}`}
@@ -110,10 +112,13 @@ function ProductCard({ images, productKey }: ProductCardProps) {
 
       {/* Product Info */}
       <div className="p-6 text-center md:p-8">
-        <h3 className="text-brand-burgundy mb-3 text-2xl font-bold md:text-3xl" style={{ fontFamily: "serif" }}>
+        <h3
+          className="text-brand-burgundy mb-3 text-2xl font-bold md:text-3xl"
+          style={{ fontFamily: "serif" }}
+        >
           {t("productName")}
         </h3>
-        
+
         <p className="text-brand-burgundy/80 mb-4 text-sm leading-relaxed md:text-base">
           {t("description")}
         </p>
@@ -124,7 +129,7 @@ function ProductCard({ images, productKey }: ProductCardProps) {
 
         {/* Price */}
         <div className="mb-6 flex items-center justify-center gap-3">
-          <span className="text-red-500 text-xl font-semibold line-through md:text-2xl">
+          <span className="text-xl font-semibold text-red-500 line-through md:text-2xl">
             {t("oldPrice")}
           </span>
           <span className="text-brand-burgundy text-3xl font-bold md:text-4xl">
@@ -226,4 +231,3 @@ export default function ProductSizes() {
     </section>
   );
 }
-
