@@ -26,10 +26,10 @@ export default function IndexPage({ params }: PageProps) {
   return (
     <main>
       <Hero />
+      <ProductSizes />
       <About />
       <BrandStory />
       <WhyChooseUs />
-      <ProductSizes />
       <QualityPromise />
       <CustomerExperience />
       <Testimonials />
